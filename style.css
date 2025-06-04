@@ -86,7 +86,7 @@ body {
 
 footer {
     background-color: black;
-    color: blueviolet;;
+    color: rgb(255, 255, 255);;
     font-size: larger;
     position: fixed;
     bottom: 0;
@@ -128,7 +128,7 @@ rgb(179, 0, 255)
 }
 
 h1{
-    color: blueviolet;
+    color: rgb(255, 255, 255);
     font-size: larger;
     text-align: center;
     font-family: monospace;
@@ -161,7 +161,7 @@ h1{
   .bar {
     width: 200px;
     height: 12.5px;
-    background: purple;
+    background: rgb(255, 255, 255);
     border-radius: 30px;
     transform: rotate(-15deg);
     animation: up-down6123 3s ease-in-out 1s infinite alternate;
