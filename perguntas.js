@@ -1,23 +1,23 @@
 criaCartao(
     'livros'
-    'qual seu tipo de livro favorito?',
-    ' fantasia!!!'
+    'Qual seu tipo de livro favorito?',
+    ' Fantasia!!!'
 )
 
 criaCartao(
      'livros'
     'Qual o seu livro favorito?',
-    'melhor doque nos filmes'
+    'Melhor doque nos filmes'
 )
 
 criaCartao(
      'livros'
-    'se pudesse viver um dia em um universo de livro qual seria?',
-    'quarta asa'
+    'Se pudesse viver um dia em um universo de livro qual seria?',
+    'Quarta asa'
 )
 
 criaCartao(
      'livros'
-    'com qual personagem voce se identifica no universo dos livros?',
+    'Com qual personagem voce se identifica no universo dos livros?',
     'liz buxbaum!!'
 )
