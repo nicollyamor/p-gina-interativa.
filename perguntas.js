@@ -1,23 +1,23 @@
 criaCartao(
     'livros',
-    'Qual seu tipo de livro favorito?',
-    ' Fantasia!!!'
+    'qual seu personagem favorito dos livros?',
+    ' tairn (o dragão de quarta asa)!!!'
 )
 
 criaCartao(
-     'livros',
-    'Qual o seu livro favorito?',
-    'Melhor doque nos filmes'
+    'series',
+    'qual sua serie de comforto',
+    'gilmore gilrs'
 )
 
 criaCartao(
-     'livros',
-    'Se pudesse viver um dia em um universo de livro qual seria?',
-    'Quarta asa'
+    'livros',
+    'qual seu genero de livro preferido?',
+    'romantasia'
 )
 
 criaCartao(
-     'livros',
-    'Com qual personagem voce se identifica no universo dos livros?',
-    'liz buxbaum!!'
+    'livros',
+    'qual seu livro favorito?',
+    'quarta asa'
 )
