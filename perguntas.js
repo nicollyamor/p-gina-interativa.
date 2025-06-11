@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'series',
-    'qual sua serie de comforto',
+    'qual sua serie de conforto',
     'gilmore gilrs'
 )
 
